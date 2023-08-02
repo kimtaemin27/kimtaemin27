@@ -9,6 +9,8 @@
   
   <p align="center"> 📌 Techs that I use well </p>  
   
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white">
@@ -28,8 +30,6 @@
   <br>
   <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=jquery&logoColor=white"><br><br>
   <p align="center"> 📌 Techs that I'll study </p>
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </div>
 
