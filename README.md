@@ -13,7 +13,7 @@
   
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-4479A1?style=plastic&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <br>
