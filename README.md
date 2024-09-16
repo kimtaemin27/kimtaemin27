@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Laravel-4479A1?style=flat-square&logo=mysql&logoColor=white">
     
   <p align="center"> 📌 Techs that I'll study </p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=C#&logoColor=white"/>
 
 </div>
 
